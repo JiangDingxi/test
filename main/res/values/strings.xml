@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Chat</string>
+
+    <string name="friend_chat">Chat with my firend</string>
+
+    <string name="group_chat">Go into chatroom</string>
+
+    <string name="apply_info">Check firend application</string>
+
+    <string name="self_info">Check self Info.</string>
+
+</resources>
